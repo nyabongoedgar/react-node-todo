@@ -1,3 +1,5 @@
+import React from "react";
+
 function Todo({ todo, index, markTodo, removeTodo }) {
   return (
     <div className="todo">
